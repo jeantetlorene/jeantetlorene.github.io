@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral </a> fellow in Machine Learning for Ecology - AIMS South Africa
+subtitle: <a href='#'>Postdoctoral </a> fellow in Machine Learning for Ecology - <a href="https://aims.ac.za/" target="_blank">African Institute for Mathematical Sciences</a> 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <a href="https://aims.ac.za/" target="_blank">African Institute for Mathematical Sciences</a>
-    6 Melrose Road, Muizenberg, 7945
-    Cape Town, South Africa
+    <p> AIMS </p>
+    <p> 6 Melrose Road, Muizenberg 7945 </p>
+    <p> Cape Town, South Africa </p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
