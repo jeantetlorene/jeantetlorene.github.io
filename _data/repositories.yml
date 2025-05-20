@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jeantetlorene
+
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jeantetlorene/Vnet_seaturtle_behavior 
+  - AIMS-Research/research_za/biologging_transferlearning_hawksbill
+  - AIMS-Research/research_za/bioacoustics_contextual_analysis
+  - AIMS-Research/research_za/bioacoustics_ruffed_lemurs
+
