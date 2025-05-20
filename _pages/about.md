@@ -28,4 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-It is during my PhD at Centre National de Recherche Scientifique (CNRS) in France that I discovered the world of deep learning while developing a model to automatically identify underwater behaviors of sea turtles from bio-loggers (animal-borne sensors). This experience ignited a passion within me to further enhance my expertise in deep learning, particularly in its application to conservation efforts. Currently, my research revolves around the creation of user-friendly tools based on deep learning techniques. The primary objective is to facilitate wildlife monitoring and streamline data processing in the field of ecology.
+It is during my PhD at Centre National de Recherche Scientifique (CNRS) in France that I discovered the world of deep learning while developing a model to automatically identify underwater behaviors of sea turtles from bio-loggers (animal-borne sensors). 
+
+This experience ignited a passion within me to further enhance my expertise in deep learning, particularly in its application to conservation efforts. Currently, my research revolves around the creation of user-friendly tools based on deep learning techniques. The primary objective is to facilitate wildlife monitoring and streamline data processing in the field of ecology.
