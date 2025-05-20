@@ -7,7 +7,7 @@
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: lorene@aims.ac.za # your email address
-bluesky_url: https://bsky.app/profile/lorenejeantet.bsky.social  # your bluesky URL
+linkedin_username: lorène-jeantet-2241a6b3 # your LinkedIn user name
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: jeantetlorene # your GitHub user name
@@ -20,7 +20,6 @@ github_username: jeantetlorene # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: lorène-jeantet-2241a6b3 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -49,3 +48,4 @@ scholar_userid: jKKBYZIAAAAJ # your Google Scholar ID
   #logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   #title: Custom Social
   #url: https://www.alberteinstein.com/
+bluesky_url: https://bsky.app/profile/lorenejeantet.bsky.social  # your bluesky URL

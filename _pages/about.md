@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    [African Institute for Mathematical Sciences](https://aims.ac.za/)
+    <a href="https://aims.ac.za/" target="_blank">African Institute for Mathematical Sciences</a>
     6 Melrose Road, Muizenberg, 7945
     Cape Town, South Africa
 
