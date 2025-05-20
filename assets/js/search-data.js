@@ -497,11 +497,11 @@ ninja.data = [{
           window.open("mailto:%6C%6F%72%65%6E%65@%61%69%6D%73.%61%63.%7A%61", "_blank");
         },
       },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/lorenejeantet.bsky.social", "_blank");
+          window.open("https://www.linkedin.com/in/lorène-jeantet-2241a6b3", "_blank");
         },
       },{
         id: 'social-github',
@@ -511,18 +511,18 @@ ninja.data = [{
           window.open("https://github.com/jeantetlorene", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/lorène-jeantet-2241a6b3", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=jKKBYZIAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/lorenejeantet.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
