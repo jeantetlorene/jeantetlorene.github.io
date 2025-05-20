@@ -8,7 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: > 
+    <p>African Institute for Mathematical Sciences</p>
+    <p>6 Melrose Road, Muizenberg, 7945</p>
+    <p>Cape Town, South Africa</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
