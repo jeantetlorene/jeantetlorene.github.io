@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Postdoctoral </a> fellow in Machine Learning for Ecology - [AIMS South Africa](https://aims.ac.za/)
 
 profile:
   align: right
