@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Postdoctoral </a> fellow in Machine Learning for Ecology - <a href="https://aims.ac.za/" target="_blank">African Institute for Mathematical Sciences</a> - Cape Town, South Africa
 
