@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "The GitHub repositories contain the code associated with some published article. Each repository provides a description of the main results along with the relevant code.",
+          description: "The GitHub repositories contain the code associated with some published articles. Each repository provides a description of the main results along with the relevant code.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Repositories/";
