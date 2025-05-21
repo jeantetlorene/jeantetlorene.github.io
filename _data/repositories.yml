@@ -6,7 +6,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - jeantetlorene/Vnet_seaturtle_behavior 
-  - AIMS-Research/research_za/biologging_transferlearning_hawksbill
-  - AIMS-Research/research_za/bioacoustics_contextual_analysis
-  - AIMS-Research/research_za/bioacoustics_ruffed_lemurs
+  - AIMS-Research/research_za/tree/main/biologging_transferlearning_hawksbill
+  - AIMS-Research/research_za/tree/main/bioacoustics_contextual_analysis
+  - AIMS-Research/research_za/tree/main/bioacoustics_ruffed_lemurs
 
