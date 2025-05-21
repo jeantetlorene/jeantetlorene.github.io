@@ -16,5 +16,11 @@ nav_order: 3
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
+  
+  {% for item in site.data.repositories.github_folders %}
+    {% include repository/folder_card.liquid item=item %}
+  {% endfor %}
+
+
 </div>
 {% endif %}

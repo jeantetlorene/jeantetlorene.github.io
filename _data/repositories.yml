@@ -8,20 +8,14 @@ github_repos:
   - name: jeantetlorene/Vnet_seaturtle_behavior
     url: https://github.com/jeantetlorene/Vnet_seaturtle_behavior
     display_name: VNet Sea Turtle Behavior
-    is_repo: true
 
-  - name: AIMS-Research/research_za
-    url: https://github.com/AIMS-Research/research_za/tree/main/biologging_transferlearning_hawksbill
-    display_name: Biologging Transfer Learning (Hawksbill)
-    is_repo: false
-
-  - name: AIMS-Research/research_za
-    url: https://github.com/AIMS-Research/research_za/tree/main/bioacoustics_contextual_analysis
-    display_name: Bioacoustics Contextual Analysis
-    is_repo: false
-
-  - name: AIMS-Research/research_za
-    url: https://github.com/AIMS-Research/research_za/tree/main/bioacoustics_ruffed_lemurs
-    display_name: Bioacoustics Ruffed Lemurs
-    is_repo: false
-
+    
+github_folders:
+  - repo: AIMS-Research/research_za/tree/main/bioacoustics_contextual_analysis
+    owner: AIMS-Research
+    name: bioacoustics_contextual_analysis
+    description: Contextual analysis of bioacoustic data for ruffed lemurs.
+  - repo: AIMS-Research/research_za/tree/main/biologging_transferlearning_hawksbill
+    owner: AIMS-Research
+    name: biologging_transferlearning_hawksbill
+    description: Transfer learning from green turtles to hawksbill.
