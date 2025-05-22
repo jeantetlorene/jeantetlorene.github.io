@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network":"" ,
-        "username":"" ,
-        "url": 
+        "username": "" ,
+        "url": "" 
       }
     ]
   },
@@ -26,7 +26,7 @@
     {
       "name": "African Institute for Mathematical Sciences - AIMS South Africa",
       "position": "Postdoctoral fellow in Machine Learning for Ecology research group",
-      "url": "https://example.com",
+      "url": "https://https://aims.ac.za/",
       "startDate": "2022-04-01",
       "endDate": "2026-03-30",
       "summary": " ",
