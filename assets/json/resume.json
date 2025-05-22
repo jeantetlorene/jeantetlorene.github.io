@@ -33,21 +33,9 @@
       "highlights": ["biologging", "bioacoustics"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "DEPE‑IPHC ‑ Centre National de la Recherche Scientifique ",
+      "institution": "DEPE‑IPHC ‑ Centre National de la Recherche Scientifique",
       "location": "Strasbourg, France",
       "url": "https://www.uzh.ch/",
       "area": "Behavioral Ecology",
@@ -56,15 +44,33 @@
       "endDate": "2021-12-21",
       "score": "",
       "courses": ["sea turtle behavior", "deep learning", "biologging", "conservation"]
+    },
+        {
+      "institution": "Ecole Nationale Supérieure Agronomique de Toulouse",
+      "location": "Toulouse, France",
+      "url": "https://www.ensat.fr/en/index.html",
+      "area": "Animal Sciences",
+      "studyType": "Master’s Degree in Engineering ",
+      "startDate": "2013-09-01",
+      "endDate": "2016-09-31",
+      "score": "",
+      "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Thesis Prize Prix Albert Schweitzer",
+      "date": "2022",
+      "awarder": "Chapitre de St-Thomas",
+      "url": "https://www.chapitre-saint-thomas.org/aides-financieres/prix-universitaires-strasbourg.html",
+      "summary": "As part of its policy to support academic research, the CHAPITRE de SAINT-THOMAS established university awards in 2005."
+    },
+      {
+      "title": "For Women In Science - French Young Talents ",
+      "date": "2020",
+      "awarder": "Fondation L’Oréal – UNECSO",
+      "url": "https://www.fondationloreal.com/our-programs-women-science-national-and-regional-young-talents-programs/french-young-talents",
+      "summary": "Every year, the French Young Talents program awards 35 talented women scientists at PhD and post-doctoral levels."
     }
   ],
   "certificates": [
@@ -185,16 +191,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
