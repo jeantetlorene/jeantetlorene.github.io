@@ -4,8 +4,8 @@
     "label": "Computer Scientist for Wildlife Monitoring",
     "image": "",
     "email": "lorene@aims.ac.za",
-    "phone": "0679965214",
-    "url": "https://jeantetlorene.github.io/",
+    "phone": "",
+    "url": "",
     "summary": "I am a data scientist with a broad interest in remote monitoring of wildlife (acoustic, imaging, accelerometer). Specialized in signal processing, I developed a method to automatically identify behavior of sea turtle from bio-loggers based on deep learning. I am convinced that mathematics and new technologies are valuable tools to improve our knowledge on biodiversity and thus better protect it.",
     "location": {
       "address": "5 Melrose road",
@@ -25,12 +25,12 @@
   "work": [
     {
       "name": "African Institute for Mathematical Sciences - AIMS South Africa",
-      "position": "Postdoctoral fellow in Machine Learning for Ecology research group",
+      "position": "Postdoctoral Research Fellow in Machine Learning for Ecology",
       "url": "https://https://aims.ac.za/",
       "startDate": "2022-04-01",
       "endDate": "2026-03-30",
-      "summary": " ",
-      "highlights": ["Ecology", "Conservation", "Biologging", "Bioacoustics", "Deep learning"]
+      "summary": "My research focuses on developing user-friendly tools powered by deep learning, with the primary goal of supporting wildlife monitoring and streamlining data processing in ecological research ",
+      "highlights": ["biologging", "bioacoustics"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "DEPE‑IPHC ‑ Centre National de la Recherche Scientifique ",
+      "location": "Strasbourg, France",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Behavioral Ecology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2018-01-08",
+      "endDate": "2021-12-21",
+      "score": "",
+      "courses": ["sea turtle behavior", "deep learning", "biologging", "conservation"]
     }
   ],
   "awards": [
