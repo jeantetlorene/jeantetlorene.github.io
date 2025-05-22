@@ -42,8 +42,8 @@
       "studyType": "PhD",
       "title": "Title : Automatic identification of behaviors from bio-loggers: a solution to improve knowledge on sea turtle ecology? ",
       "superviseur": "PI: Dr. Damien Chevallier",
-      "startDate": "2018-01-08",
-      "endDate": "2021-12-21",
+      "startDate": "2018",
+      "endDate": "2021",
       "score": "",
       "courses": ["sea turtle behavior", "deep learning", "biologging", "conservation"]
     },
@@ -53,11 +53,53 @@
       "url": "https://www.ensat.fr/en/index.html",
       "area": "Animal Sciences",
       "studyType": "Master’s Degree in Engineering ",
-      "startDate": "2013-09-01",
-      "endDate": "2016-09-31",
+      "startDate": "2013",
+      "endDate": "2016",
       "score": "",
       "courses": ""
     }
+  ],
+  "research": [
+    {
+      "grade": "Volunteer Research Assistant",
+      "date": "2017",
+      "project": "Reticulum-mitochondria interactions of pancreatic beta cells subjected to metabolic disturbances of diabetic pathologies",
+      "superviseur": "PI: Prof Anne-Marie Madec",
+      "location": "Lyon, France",
+      "lab": "Laboratoire CarMeN, UMR INSERM U1060/INRAE U1397"
+    },
+    {
+      "grade": "Research Assistant",
+      "date": "2016",
+      "project": "Automatic identification of behaviors of captive sea turtles from accelerometric data",
+      "superviseur": "PI: Dr Damien Chevallier",
+      "location": "Strasbourg, France",
+      "lab": "DEPE‑IPHC, CNRS"
+    },
+        {
+      "grade": "Research Assistant",
+      "date": "2015",
+      "project": "Understanding the influence of abiotic and biotic factors of Lyme disease ecology to predict the future distribution and spread of disease in Ontario",
+      "superviseur": "PI: Dr Katie Clow & Prof Claire Jardin",
+      "location": "Guelph, Canada",
+      "lab": "Ontario Veterinary College, University of Guelph"
+    },
+        {
+      "grade": "Research Assistant",
+      "date": "2015",
+      "project": "Health assessment of wild turkeys in Ontario",
+      "superviseur": "PI: Dr Amanda MacDonald & Prof Claire Jardin",
+      "location": "Guelph, Canada",
+      "lab": "Ontario Veterinary College, University of Guelph"
+    },
+        {
+      "grade": "Co-Investigator",
+      "date": "2014",
+      "project": "Field survey on the impact of the Montagne des Pyrénées (pedigree dog) on sheep breeding",
+      "superviseur": "PI: La Pastorale Pyrénéenne",
+      "location": "Saint Gaudens, France",
+      "lab": ""
+    }  
   ],
   "awards": [
     {
