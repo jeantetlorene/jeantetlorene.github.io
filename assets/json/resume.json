@@ -40,6 +40,8 @@
       "url": "https://www.uzh.ch/",
       "area": "Behavioral Ecology",
       "studyType": "PhD",
+      "title": "Title : Automatic identification of behaviors from bio-loggers: a solution to improve knowledge on sea turtle ecology? ",
+      "superviseur": "PI: Dr. Damien Chevallier",
       "startDate": "2018-01-08",
       "endDate": "2021-12-21",
       "score": "",
@@ -71,50 +73,6 @@
       "awarder": "Fondation L’Oréal – UNECSO",
       "url": "https://www.fondationloreal.com/our-programs-women-science-national-and-regional-young-talents-programs/french-young-talents",
       "summary": "Every year, the French Young Talents program awards 35 talented women scientists at PhD and post-doctoral levels."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
