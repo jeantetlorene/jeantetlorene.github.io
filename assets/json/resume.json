@@ -122,7 +122,7 @@
     {
       "name": "Wildlife Monitoring",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-binoculars",
       "keywords": [
         "Biologging",
         "Bioacoustics"
@@ -131,7 +131,7 @@
         {
       "name": "Data Analysis",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "Deep learning",
         "Signal processing"
@@ -140,7 +140,7 @@
       {
       "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "R",
         "Python",
