@@ -142,12 +142,10 @@
       "level": "Master",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "R",
-        "Python",
-        "Tensorflow, Keras",
-        "Pytorch",
-        "Jupyter",
-        "Github"
+        "R/Python",
+        "Tensorflow/Pytorch",
+        "Github",
+        "Jekyll (Website)"
       ]
     }
   ],
