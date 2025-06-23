@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoctoral </a> fellow in Machine Learning for Ecology -
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lorene-jeantet.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     
