@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research-projects",
-          title: "Research Projects",
-          description: "List of my current research projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "Publications by categories in reversed chronological order",
           section: "Navigation",
@@ -30,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Repositories/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Teaching/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "You can also download my CV by clicking the PDF button in the top left corner.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/CV/";
-          },
-        },{id: "nav-gallery",
-          title: "Gallery",
-          description: "Favorite pictures of nature",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/gallery/";
           },
         },{id: "post-a-post-with-plotly-js",
         
