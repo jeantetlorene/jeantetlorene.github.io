@@ -12,8 +12,7 @@
       "postalCode": "7945 Muizenberg",
       "city": "Cape Town",
       "countryCode": "SA",
-      "region": "California"
-    },
+
     "profiles": [
       {
         "network":"Twitter" ,
@@ -66,6 +65,13 @@
       "awarder": "Chapitre de St-Thomas",
       "url": "https://www.chapitre-saint-thomas.org/aides-financieres/prix-universitaires-strasbourg.html",
       "summary": "As part of its policy to support academic research, the CHAPITRE de SAINT-THOMAS established university awards in 2005."
+    },
+    {
+      "title": "Thesis Prize of the Société de Biologie de Strasbourg",
+      "date": "2021",
+      "awarder": "Société de Biologie de Strasbourg",
+      "url": "http://societe-biologie-strasbourg.fr/laureats/prix-de-these-2021/",
+      "summary": "11 Thesis Prizes are awarded by the Société de Biologie de Strasbourg every year."
     },
       {
       "title": "For Women In Science - French Young Talents ",
