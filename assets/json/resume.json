@@ -11,8 +11,8 @@
       "address": "5 Melrose road",
       "postalCode": "7945 Muizenberg",
       "city": "Cape Town",
-      "countryCode": "SA",
-
+      "countryCode": "SA"
+    },
     "profiles": [
       {
         "network":"Twitter" ,
@@ -123,7 +123,6 @@
       "lab": ""
     }  
   ],
-
   "skills": [
     {
       "name": "Wildlife Monitoring",
@@ -169,23 +168,26 @@
   ],
   "interests": [
     {
-      "name": "",
+      "name": "Conservation",
       "icon": "fa-solid fa-tag",
       "keywords": [
 
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Damien Chevallier",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
     },
     {
-      "name": "Vincent Vigon",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "name": "Photography",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Sport",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["rock climing" , "trail running", "surf", "free diving"
+
+      ]
     }
+
   ]
 }
