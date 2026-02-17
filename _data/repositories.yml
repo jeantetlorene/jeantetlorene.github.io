@@ -4,10 +4,6 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - name: jeantetlorene/Vnet_seaturtle_behavior
-    url: https://github.com/jeantetlorene/Vnet_seaturtle_behavior
-    display_name: VNet Sea Turtle Behavior
 
     
 github_folders:
@@ -19,3 +15,8 @@ github_folders:
     owner: AIMS-Research
     name: biologging_transferlearning_hawksbill
     description: Transfer learning from green turtles to hawksbill.
+  - repo: jeantetlorene/Vnet_seaturtle_behavior
+    owner: jeantetlorene
+    name: VNet Sea Turtle Behavior
+    description: Vnet to automatically identify underwater behaviors of green turtles.
+
