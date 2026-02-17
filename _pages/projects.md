@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: Research Projects
 permalink: /projects/
 description: Overview of my main research areas combining machine learning and ecology.
