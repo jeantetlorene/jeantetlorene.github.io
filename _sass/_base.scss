@@ -1468,3 +1468,139 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// ============================================================================
+// News / Announcements Section — Card-style with staggered animations
+// ============================================================================
+.news {
+  .news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 0.25rem 0;
+  }
+
+  .news-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-left: 3px solid var(--global-theme-color);
+    border-radius: 8px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    animation: newsSlideIn 0.4s ease-out both;
+
+    &:hover {
+      transform: translateX(4px);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+      border-left-color: var(--global-theme-color);
+    }
+  }
+
+  .news-date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 50px;
+    padding: 0.25rem 0.5rem;
+    background: var(--global-theme-color);
+    border-radius: 6px;
+    flex-shrink: 0;
+
+    .news-date-day {
+      font-size: 1.3rem;
+      font-weight: 700;
+      line-height: 1.2;
+      color: #fff;
+    }
+
+    .news-date-month {
+      font-size: 0.65rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: rgba(255, 255, 255, 0.85);
+    }
+  }
+
+  .news-content {
+    flex: 1;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--global-text-color);
+    padding-top: 0.15rem;
+
+    a.news-title {
+      color: var(--global-theme-color);
+      font-weight: 600;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+@keyframes newsSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+// ============================================================================
+// Hero gradient on About page profile section
+// ============================================================================
+.about {
+  .profile {
+    position: relative;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: -2rem;
+      right: -2rem;
+      bottom: -2rem;
+      left: -2rem;
+      background: linear-gradient(
+        135deg,
+        rgba(13, 148, 136, 0.06) 0%,
+        rgba(13, 148, 136, 0.02) 40%,
+        transparent 70%
+      );
+      border-radius: 16px;
+      z-index: -1;
+      pointer-events: none;
+    }
+  }
+
+  // More info tagline styling
+  .more-info {
+    p {
+      color: var(--global-theme-color);
+      font-weight: 500;
+      font-size: 0.85rem;
+      letter-spacing: 0.3px;
+      opacity: 0.85;
+    }
+  }
+}
+
+// Dark mode adjustment for hero gradient
+html[data-theme="dark"] {
+  .about .profile::before {
+    background: linear-gradient(
+      135deg,
+      rgba(45, 212, 191, 0.08) 0%,
+      rgba(45, 212, 191, 0.03) 40%,
+      transparent 70%
+    );
+  }
+}
