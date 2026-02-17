@@ -2,7 +2,7 @@
 layout: page
 title: V-Net for Animal Behavior
 description: Adapting the V-Net fully convolutional neural network from biomedical image segmentation to temporal sensor data for animal behavior classification.
-img: assets/img/project_vnet.svg
+img: assets/img/project_vnet.png
 importance: 4
 category: Wildlife Monitoring
 related_publications: true

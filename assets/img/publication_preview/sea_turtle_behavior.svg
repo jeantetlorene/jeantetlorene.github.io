@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#f0fdfa"/>
-  <circle cx="100" cy="80" r="35" fill="#0d9488" opacity="0.8"/>
-  <path d="M70 80 Q85 60 100 80 Q115 60 130 80" stroke="#fff" fill="none" stroke-width="2"/>
-  <rect x="50" y="130" width="100" height="8" rx="4" fill="#0d9488" opacity="0.3"/>
-  <rect x="60" y="145" width="80" height="6" rx="3" fill="#0d9488" opacity="0.2"/>
-  <rect x="70" y="158" width="60" height="6" rx="3" fill="#0d9488" opacity="0.15"/>
-  <text x="100" y="185" text-anchor="middle" font-size="10" fill="#0d9488" font-family="sans-serif">Behavior Classification</text>
-</svg>

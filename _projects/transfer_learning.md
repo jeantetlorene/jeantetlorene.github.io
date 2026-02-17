@@ -2,7 +2,7 @@
 layout: page
 title: Transfer Learning for Conservation
 description: Cross-species transfer learning to overcome data scarcity in endangered species monitoring, demonstrated on hawksbill sea turtles.
-img: assets/img/project_transfer_learning.svg
+img: assets/img/project_transfer_learning.png
 importance: 3
 category: Wildlife Monitoring
 related_publications: true

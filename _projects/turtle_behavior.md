@@ -2,7 +2,7 @@
 layout: page
 title: Sea Turtle Behavior Classification
 description: Deep learning approaches for automatic identification of underwater sea turtle behaviors using biologging sensors (accelerometers, gyroscopes, depth recorders).
-img: assets/img/project_turtle_behavior.svg
+img: assets/img/project_turtle_behavior.png
 importance: 1
 category: Wildlife Monitoring
 related_publications: true

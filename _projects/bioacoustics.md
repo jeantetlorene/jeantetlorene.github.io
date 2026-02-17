@@ -2,7 +2,7 @@
 layout: page
 title: Bioacoustics & Wildlife Monitoring
 description: Improving deep learning acoustic classifiers with contextual information for automated wildlife monitoring, from bird songs to primate calls.
-img: assets/img/project_bioacoustics.svg
+img: assets/img/project_bioacoustics.png
 importance: 2
 category: Bioacoustics
 related_publications: true
