@@ -2,6 +2,57 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Smooth fade-in on page load for main content
+.container {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Card hover effects (projects, repos)
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  }
+}
+
+// Smooth link underline animation
+a:not(.nav-link):not(.btn) {
+  transition: color 0.2s ease;
+}
+
+// Profile image subtle hover
+.profile img {
+  transition: transform 0.3s ease;
+
+  &:hover {
+    transform: scale(1.03);
+  }
+}
+
+// Publication entry hover
+.publications ol.bibliography li {
+  transition: background-color 0.2s ease;
+  padding: 0.75rem;
+  border-radius: 6px;
+
+  &:hover {
+    background-color: rgba(13, 148, 136, 0.04);
+  }
+}
+
 // Typography
 
 p,

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-07-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New collaborative paper in **Scientific Reports** exploring how **sea turtle vocalizations** could be used as acoustic deterrents to reduce bycatch — opening new perspectives for conservation.

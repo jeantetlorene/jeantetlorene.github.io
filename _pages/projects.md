@@ -2,9 +2,10 @@
 layout: projects
 title: Research Projects
 permalink: /projects/
-description: List of my current research projects.
+description: Overview of my main research areas combining machine learning and ecology.
 nav: true
-nav_order: 1
+nav_order: 2
+display_categories: [Wildlife Monitoring, Bioacoustics]
 horizontal: false
 ---
 

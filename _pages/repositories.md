@@ -4,7 +4,7 @@ permalink: /Repositories/
 title: Repositories
 description: The GitHub repositories contain the code associated with some published articles. Each repository provides a description of the main results along with the relevant code.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}

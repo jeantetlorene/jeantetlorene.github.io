@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="16" fill="#f0fdfa"/>
+  <!-- Turtle body -->
+  <ellipse cx="100" cy="95" rx="40" ry="30" fill="#0d9488" opacity="0.85"/>
+  <!-- Shell pattern -->
+  <ellipse cx="100" cy="95" rx="30" ry="20" fill="none" stroke="#f0fdfa" stroke-width="1.5"/>
+  <line x1="100" y1="75" x2="100" y2="115" stroke="#f0fdfa" stroke-width="1" opacity="0.6"/>
+  <line x1="70" y1="95" x2="130" y2="95" stroke="#f0fdfa" stroke-width="1" opacity="0.6"/>
+  <!-- Head -->
+  <circle cx="145" cy="85" r="10" fill="#0d9488" opacity="0.9"/>
+  <circle cx="149" cy="82" r="2" fill="#f0fdfa"/>
+  <!-- Flippers -->
+  <ellipse cx="65" cy="78" rx="15" ry="6" fill="#0d9488" opacity="0.7" transform="rotate(-30 65 78)"/>
+  <ellipse cx="135" cy="78" rx="15" ry="6" fill="#0d9488" opacity="0.7" transform="rotate(30 135 78)"/>
+  <ellipse cx="70" cy="112" rx="12" ry="5" fill="#0d9488" opacity="0.7" transform="rotate(20 70 112)"/>
+  <ellipse cx="130" cy="112" rx="12" ry="5" fill="#0d9488" opacity="0.7" transform="rotate(-20 130 112)"/>
+  <!-- Accelerometer wave -->
+  <polyline points="20,150 35,140 50,155 65,135 80,150 95,130 110,155 125,138 140,148 155,132 170,150 185,142" fill="none" stroke="#0d9488" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Data points on wave -->
+  <circle cx="50" cy="155" r="3" fill="#0d9488"/>
+  <circle cx="95" cy="130" r="3" fill="#0d9488"/>
+  <circle cx="140" cy="148" r="3" fill="#0d9488"/>
+  <circle cx="170" cy="150" r="3" fill="#0d9488"/>
+  <!-- Small dots for data scatter -->
+  <circle cx="35" cy="170" r="1.5" fill="#0d9488" opacity="0.4"/>
+  <circle cx="60" cy="175" r="1.5" fill="#0d9488" opacity="0.4"/>
+  <circle cx="85" cy="168" r="1.5" fill="#0d9488" opacity="0.4"/>
+  <circle cx="110" cy="172" r="1.5" fill="#0d9488" opacity="0.4"/>
+  <circle cx="135" cy="165" r="1.5" fill="#0d9488" opacity="0.4"/>
+  <circle cx="160" cy="170" r="1.5" fill="#0d9488" opacity="0.4"/>
+</svg>

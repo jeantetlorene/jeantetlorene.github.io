@@ -2,20 +2,20 @@
   width: 400px;
   height: 125px;
   padding: 16px;
-  border: 1px solid var(--global-divider-color); // light mode border
-  border-radius: 6px;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
   background-color: var(--global-card-bg-color);
   box-shadow: 0 1px 3px rgba(27, 31, 35, 0.04);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .repo-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(27, 31, 35, 0.1);
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 8px 25px rgba(13, 148, 136, 0.12);
 }
 
 .repo-name {
