@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research-projects",
+          title: "Research Projects",
+          description: "Overview of my main research areas combining machine learning and ecology.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "Publications in reversed chronological order",
           section: "Navigation",
@@ -22,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/Repositories/";
+          },
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "Favorite pictures of wildlife",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -50,17 +64,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
       },{id: "post-a-post-with-tabs",
@@ -283,17 +286,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -393,67 +385,35 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "news-new-collaborative-paper-in-scientific-reports-exploring-how-sea-turtle-vocalizations-could-be-used-as-acoustic-deterrents-to-reduce-bycatch-opening-new-perspectives-for-conservation",
+          title: 'New collaborative paper in Scientific Reports exploring how sea turtle vocalizations could be...',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+          section: "News",},{id: "news-our-paper-on-transfer-learning-for-hawksbill-sea-turtle-behavior-classification-is-now-published-in-the-journal-of-experimental-biology-we-show-that-cross-species-transfer-learning-improves-deep-learning-classification-by-8",
+          title: 'Our paper on transfer learning for hawksbill sea turtle behavior classification is now...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-published-in-behavioral-ecology-and-sociobiology-description-of-the-behavioural-contexts-of-underwater-sound-production-in-juvenile-green-turtles-providing-the-first-evidence-of-context-specific-underwater-vocalizations-in-sea-turtles",
+          title: 'New paper published in Behavioral Ecology and Sociobiology — Description of the behavioural...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-bioacoustics-amp-wildlife-monitoring",
+          title: 'Bioacoustics &amp;amp; Wildlife Monitoring',
+          description: "Improving deep learning acoustic classifiers with contextual information for automated wildlife monitoring, from bird songs to primate calls.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/bioacoustics/";
+            },},{id: "projects-transfer-learning-for-conservation",
+          title: 'Transfer Learning for Conservation',
+          description: "Cross-species transfer learning to overcome data scarcity in endangered species monitoring, demonstrated on hawksbill sea turtles.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/transfer_learning/";
+            },},{id: "projects-sea-turtle-behavior-classification",
+          title: 'Sea Turtle Behavior Classification',
+          description: "Deep learning approaches for automatic identification of underwater sea turtle behaviors using biologging sensors (accelerometers, gyroscopes, depth recorders).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/turtle_behavior/";
+            },},{id: "projects-v-net-for-animal-behavior",
+          title: 'V-Net for Animal Behavior',
+          description: "Adapting the V-Net fully convolutional neural network from biomedical image segmentation to temporal sensor data for animal behavior classification.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/vnet_architecture/";
             },},{
         id: 'social-email',
         title: 'email',
