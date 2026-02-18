@@ -7,7 +7,7 @@ subtitle: <a href='https://aims.ac.za/' target='_blank'>Postdoctoral Fellow</a> 
 profile:
   align: right
   image: lorene-jeantet_2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # keep original rectangular image
   more_info: >
     <p>Deep Learning | Wildlife Monitoring | Bioacoustics | Sea Turtles</p>
 
